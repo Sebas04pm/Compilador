@@ -52,7 +52,6 @@ function tokenize(code) {
       }
       return left;
     }
-  
     return expression();
   }
   
